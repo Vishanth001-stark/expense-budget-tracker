@@ -1,0 +1,13 @@
+id,date,amount,category,description,payment_method,created_at
+EXP-1001,2026-09-02,850.00,Education & Books,Algorithms & Data Structures Reference Handbook,UPI,2026-09-27T15:09:19.739645
+EXP-1002,2026-09-04,120.00,Transportation,Namma Metro SmartCard Recharge (Bengaluru Transit),UPI,2026-09-27T15:09:19.739667
+EXP-1003,2026-09-05,340.00,Food & Dining,Campus Cafeteria Lunch & Refreshments,UPI,2026-09-27T15:09:19.739670
+EXP-1004,2026-09-08,799.00,Tech & Software,GitHub Pro & Cloud Developer Tool Subscription,Debit Card,2026-09-27T15:09:19.739673
+EXP-1005,2026-09-10,250.00,Transportation,Auto Commute to Jain University Campus,Cash,2026-09-27T15:09:19.739675
+EXP-1006,2026-09-12,560.00,Food & Dining,Weekend Study Group Dinner with Classmates,UPI,2026-09-27T15:09:19.739676
+EXP-1007,2026-09-15,450.00,Education & Books,"Stationery, Lab Notebooks, and Circuit Components",UPI,2026-09-27T15:09:19.739678
+EXP-1008,2026-09-18,199.00,Entertainment,Weekend Streaming Subscription,Debit Card,2026-09-27T15:09:19.739680
+EXP-1009,2026-09-20,140.00,Transportation,Metro Commute to Hackathon Preparation Meetup,UPI,2026-09-27T15:09:19.739682
+EXP-1010,2026-09-22,620.00,Food & Dining,Hackathon Team Snacks & Energy Drinks,UPI,2026-09-27T15:09:19.739683
+EXP-1011,2026-09-25,300.00,Healthcare,Pharmacy multivitamins & medical checkup,UPI,2026-09-27T15:09:19.739685
+EXP-1012,2026-09-27,180.00,Food & Dining,Morning Breakfast & Filter Coffee,UPI,2026-09-27T15:09:19.739687
